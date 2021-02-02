@@ -4,7 +4,9 @@
 - 🌱 I’m currently learning  PHP
 - 🤔 I’m looking for help with  .bat
 - ⚡ Fun fact: Like anime
-<h2>Spotify now playing 🎧</h2>
-<p>
-<a href="https://open.spotify.com/user/ntbif85ku9w3kp9n8ucme1kpj"><img src="https://spotify-now-playing.Szpadel.vercel.app/api/spotify-playing" alt="Logo"></img></a>
-</p>
+### Languages I Use:
+
+
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
