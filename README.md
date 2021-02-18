@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on WEB
 - 🌱 I’m currently learning  PHP
-- 🤔 I’m looking for help with  .bat
+- 🤔 I’m looking for help with  .PHP
 - ⚡ Fun fact: Like anime
 ### Languages I Use:
 
