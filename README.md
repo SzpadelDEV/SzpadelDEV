@@ -1,4 +1,4 @@
-### H 👋
+### Siema? 👋
 
 ## Projekty:
 
@@ -29,3 +29,4 @@
 - Programista nie
 - Minecraft najlepsza gra
 - LoLa ebać ale i tak gram
+https://forthebadge.com/images/badges/made-with-javascript.svg
