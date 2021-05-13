@@ -1,8 +1,8 @@
 ### H 👋
 
 ## Projekty:
-- [Bot Boomfinity](https://boomfinity.xyz)
-- Nic innego nie znajdziesz, wszystko prywatne
+
+- Prywatne?
 
 ## Fakty:
 - AMD pan twój, a intel zawsze dziewica
@@ -23,9 +23,9 @@
   - Yasuo
   - Klawisz insert
   - ASUS
-- .unx#6007
+- Szpadel...#8579
 - \*\*\*\*\* \*\*\*
 - \*\*\*\*\* \*\*\*
-- Programista [bota Boomfinity](https://boomfinity.xyz)
-- Minecraft i factorio to najlepsze gry
+- Programista nie
+- Minecraft najlepsza gra
 - LoLa ebać ale i tak gram
