@@ -7,6 +7,7 @@
 ## Fakty:
 - AMD pan twój, a intel zawsze dziewica
 - Golang i Rust przejmą świat
+- Nikachu najlepsza strimerka
 - H to najlepsza litera. G to wróg.
 - JavaScript do dużych projektów to grzech
 - Rzeczy od jetbrains > wszystkie inne edytory
@@ -26,7 +27,7 @@
 - Szpadel...#8579
 - \*\*\*\*\* \*\*\*
 - \*\*\*\*\* \*\*\*
-- Programista nie
+- Programista tak
 - Minecraft najlepsza gra
 - LoLa ebać ale i tak gram
 
