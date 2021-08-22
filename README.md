@@ -20,7 +20,6 @@
   - Firefox
   - Ubuntu
   - Gnome
-  - Windows
   - Yasuo
   - Klawisz insert
   - ASUS
@@ -29,5 +28,5 @@
 - \*\*\*\*\* \*\*\*
 - Programista tak
 - Minecraft najlepsza gra
-- LoLa ebać ale i tak gram
+- LoLa ebać
 
