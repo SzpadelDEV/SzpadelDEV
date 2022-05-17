@@ -5,9 +5,8 @@
 - Prywatne?
 
 ## Fakty:
-- AMD pan twój, a intel zawsze dziewica
+- Jestem z gangu rodrigeza i masz mnie nie bić ok?
 - Golang i Rust przejmą świat
-- Nikachu najlepsza strimerka
 - H to najlepsza litera. G to wróg.
 - JavaScript do dużych projektów to grzech
 - Rzeczy od jetbrains > wszystkie inne edytory
@@ -16,13 +15,10 @@
 - KDE należy miłować jak Boga twego. Gnome tra.sh
 - Lista syfu:
   - Apple (caly hardware)
-  - Samsung (telefony)
   - Firefox
-  - Ubuntu
   - Gnome
-  - Yasuo
   - Klawisz insert
-  - ASUS
+  
 - Szpadel...#8579
 - \*\*\*\*\* \*\*\*
 - \*\*\*\*\* \*\*\*
