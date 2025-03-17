@@ -19,7 +19,7 @@
   - Gnome
   - Klawisz insert
   
-- Szpadel...#8579
+- Szpadel. | DC
 - \*\*\*\*\* \*\*\*
 - \*\*\*\*\* \*\*\*
 - Programista tak
